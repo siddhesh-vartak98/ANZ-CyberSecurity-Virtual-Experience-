@@ -1,4 +1,4 @@
-# ANZ-CyberSecurity-Virtual-Internship
+# ANZ-CyberSecurity-Virtual-Experience
 
 ## Task 1 – Investigate E-mails sent in and report suspicious item. 
 - Social Engineering Investigation: Investigated several emails and prepared analysis report.
